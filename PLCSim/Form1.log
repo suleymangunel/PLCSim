@@ -1,0 +1,24 @@
+Line 122: Class RichTextLib.RichTextBox of control RichTextBox3 was not a loaded control class.
+Line 136: Class RichTextLib.RichTextBox of control RichTextBox2 was not a loaded control class.
+Line 3657: Class RichTextLib.RichTextBox of control RichTextBox1 was not a loaded control class.
+Line 128: The property name _ExtentX in RichTextBox3 is invalid.
+Line 129: The property name _ExtentY in RichTextBox3 is invalid.
+Line 130: The property name _Version in RichTextBox3 is invalid.
+Line 132: The property name ReadOnly in RichTextBox3 is invalid.
+Line 133: The property name FileName in RichTextBox3 is invalid.
+Line 134: The property name TextRTF in RichTextBox3 is invalid.
+Line 142: The property name _ExtentX in RichTextBox2 is invalid.
+Line 143: The property name _ExtentY in RichTextBox2 is invalid.
+Line 144: The property name _Version in RichTextBox2 is invalid.
+Line 146: The property name ReadOnly in RichTextBox2 is invalid.
+Line 147: The property name ScrollBars in RichTextBox2 is invalid.
+Line 148: The property name FileName in RichTextBox2 is invalid.
+Line 149: The property name TextRTF in RichTextBox2 is invalid.
+Line 3663: The property name _ExtentX in RichTextBox1 is invalid.
+Line 3664: The property name _ExtentY in RichTextBox1 is invalid.
+Line 3665: The property name _Version in RichTextBox1 is invalid.
+Line 3666: The property name ReadOnly in RichTextBox1 is invalid.
+Line 3667: The property name ScrollBars in RichTextBox1 is invalid.
+Line 3668: The property name FileName in RichTextBox1 is invalid.
+Line 3669: The property name TextRTF in RichTextBox1 is invalid.
+Line 3657: Property MouseIcon in RichTextBox1 could not be set.
